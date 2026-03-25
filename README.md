@@ -1,4 +1,4 @@
-# Argus — CTI Intelligence Platform
+# Argus
 
 Argus est une plateforme de **Cyber Threat Intelligence** personnelle composée de deux modules complémentaires : un agrégateur de données CTI multi-sources couplé à un LLM pour la génération automatique d'IOC, et une instance OpenCTI locale pour l'analyse et la visualisation des menaces.
 
